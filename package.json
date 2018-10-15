@@ -1,0 +1,13 @@
+{
+  "name": "react_flash",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "description": "A react flash component",
+  "homepage": "https://github.com/tprax/react_flash_npm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tprax/react_flash_npm"
+  },
+  "author":"tprax",
+  "license": "MIT"
+}
