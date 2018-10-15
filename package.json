@@ -8,6 +8,11 @@
     "type": "git",
     "url": "https://github.com/tprax/react_flash_npm"
   },
-  "author":"tprax",
-  "license": "MIT"
+  "author": "tprax",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "styled-components": "^4.0.0"
+  }
 }
